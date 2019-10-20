@@ -1,3 +1,17 @@
+.btn-whatsapp {
+        display:block;
+        width:60px;
+        height:60px;
+        color#fff;
+        position: fixed;
+        left:20px;
+        bottom:40px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+}
+
 html {
   overflow-x: hidden;
 }
